@@ -1,1 +1,2 @@
 # statistical_system
+吸引力法则09天实践线上打卡统计小程序
